@@ -2,6 +2,11 @@ import './App.css';
 import React from 'react';
 import About from "./components/About";
 
+/*
+git add .
+git commit -m "message"
+git push origin HEAD:master
+*/
 
 function App() {
   return (
