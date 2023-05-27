@@ -16,6 +16,7 @@ function App() {
       <h1 className='text-2xl underline'>fuck</h1>
       <h1 className='text-2xl underline'>fuck</h1>
       <h1>fuck </h1>
+      <About />
     </main>
   );
 }
